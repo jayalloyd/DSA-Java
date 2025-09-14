@@ -14,3 +14,11 @@ for(let i=1 ; i<= totalRows; i++){
 
 }
 ZeroOneTriangle(5);
+
+
+// output
+// 1
+// 01
+// 101
+// 0101
+// 10101
