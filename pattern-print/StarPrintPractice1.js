@@ -12,3 +12,8 @@ function starPrint(){
 }
 
 starPrint();
+// output
+// *****
+// *****
+// *****
+// *****
