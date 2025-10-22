@@ -3,8 +3,7 @@ DSA Practice  JavaScript
 This repository contains my Data Structures & Algorithms practice solutions, primarily in JavaScript.
 It’s the continuation of my DSA learning journey — covering Basic to advanced topics.
 
-📌 Topics Covered So Far
-Pattern Printing
+
 
 🚧 Work in Progress — I’m actively adding new problems daily.
 
