@@ -1,6 +1,6 @@
 DSA Practice  JavaScript 
 
-This repository contains my Data Structures & Algorithms practice solutions, primarily in JavaScript.
+This repository contains my Data Structures & Algorithms practice solutions, primarily in Java
 It’s the continuation of my DSA learning journey — covering Basic to advanced topics.
 
 
@@ -11,7 +11,7 @@ It’s the continuation of my DSA learning journey — covering Basic to advance
 Each problem folder contains:
 
 Problem statement (in README or comment)
-My JavaScript solution
+
 Time & Space complexity analysis
 🎯 Goal
 Sharpen problem-solving skills for technical interviews and competitive programming.
