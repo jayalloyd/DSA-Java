@@ -1,4 +1,4 @@
-DSA Practice  JavaScript 
+DSA Practice  Java
 
 This repository contains my Data Structures & Algorithms practice solutions, primarily in Java
 It’s the continuation of my DSA learning journey — covering Basic to advanced topics.
